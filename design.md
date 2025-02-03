@@ -1,0 +1,3 @@
+# prntr
+
+I've always wanted a 3D printer that can quickly print parts for prototyping. The Bambu Labs A1m I have right now takes ~7 minutes of calibrating before the print has even begun. Let's try to change that...
