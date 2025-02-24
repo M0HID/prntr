@@ -56,3 +56,6 @@ I've always wanted a 3D printer that can quickly print parts for prototyping. Th
 | Hotend               |  £     79.91    |
 |                      |                 |
 | Total                |  £  282.07      |
+
+
+We are a littleee over budget atm but that should hopefully come down once we research cheaper alternatives/finalise parts.
