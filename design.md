@@ -100,3 +100,4 @@ Update: I remade the duct shape and now it looks a lot better, i have decreased 
 
 Update 2: After many many iterations and failed attempts i have finally come up with this vent design. I also redid the mounting style for the hotend to use a hard mount so that should make things more secure as well. This part cooling ducc has 3 profiles rather than 2 and took me forever just because of me trying different variations and designs. Time += 5 hours
 
+![image](https://github.com/user-attachments/assets/cbc9b7e0-61d1-428a-b9fc-9713ca34061e)
