@@ -16,3 +16,5 @@ This is a 3d printer which is mainly optimised for speed. While the babu labs a1
 Almost everything was a challenge for me since I had barely used fusion 360 before this. I learnt a lot about CAD modelling in this project and a lot more about different 3d printers.
 
 ## Image gallery
+![image](https://github.com/user-attachments/assets/990f8b11-b3b1-4eb3-9fb6-639b7fd9dc31)
+![image](https://github.com/user-attachments/assets/c34b480d-20a1-4196-b752-dea7ccd0b09a)
