@@ -1,7 +1,7 @@
 # prntr
 Welcome to the **prntr** project!
 
-This is a 3d printer which is mainly optimised for speed. While the babu labs a1 mini that i have currently prints perfectly, it isnt the fastest when it comes to speed, especially startup calibration times required before every print.
+This is a 3d printer which is mainly optimised for speed. While the Bambu labs a1 mini that i have currently prints perfectly, it isnt the fastest when it comes to speed, especially startup calibration times required before every print.
 ## Features
 - 100-150mms^-1 print speed
 - 235x235 build plate
